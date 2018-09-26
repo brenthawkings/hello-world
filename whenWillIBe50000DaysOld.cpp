@@ -1,5 +1,6 @@
 //This problem is about finding the year when a user will be 50000 days old
 //I have designed an algorithm that does just that
+//Is nearly useless
 //INPUTS: Year of birth, Month of birth, and Day of birth
 //OUTPUTS: The year when the user will be 50000 days old
 
